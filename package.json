@@ -4,6 +4,20 @@
   "description": "Theme for peace and love to humanity!",
   "version": "0.0.1",
   "publisher": "maratib",
+  "icon": "images/icon.png",
+  "author": {
+    "name": "Maratib Ali Khan"
+  },
+  "galleryBanner": {
+    "color": "#232e33",
+    "theme": "dark"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "homepage": "https://github.com/maratib/peace-theme/blob/main/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maratib/peace-theme"
+  },
   "engines": {
     "vscode": "^1.10.0"
   },
